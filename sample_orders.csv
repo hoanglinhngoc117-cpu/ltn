@@ -1,0 +1,6 @@
+﻿order_id,store_id,customer_name,customer_phone,order_time,status,cancel_reason,total_amount,is_test
+ORD-UPLOAD-001,STORE_01,Lê Văn Tám,0981112233,2026-11-16 10:15:00,completed,,350000.0,0
+ORD-UPLOAD-002,STORE_04,Ngô Thị Mai,0912223344,2026-11-16 17:30:00,cancelled,out_of_stock_pos_delay,540000.0,0
+ORD-UPLOAD-003,STORE_04,Phan Quốc Bảo,0933334455,2026-11-16 18:10:00,cancelled,out_of_stock_pos_delay,220000.0,0
+ORD-UPLOAD-004,STORE_02,Vũ Thu Trang,0944445566,2026-11-16 14:00:00,completed,,180000.0,0
+TEST-UPLOAD-999,STORE_04,Test Account,0900000000,2026-11-16 11:00:00,cancelled,test_script,0.0,1
